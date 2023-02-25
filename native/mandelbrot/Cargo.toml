@@ -1,0 +1,21 @@
+[package]
+name = "mandelbrot"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "0.24.5"
+
+[build-dependencies]
+cc = "1.0.79"
+bindgen = "0.64.0"
+cbindgen = "0.24.3"
+
+[features]
+with_logs = []
+default = ["with_logs"]
+
+[lib]
+crate-type = ["cdylib"]
