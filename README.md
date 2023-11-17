@@ -5,7 +5,4 @@ This program leverages GPU acceleration to render the Mandelbrot Set fractal eff
 ## Example result
 Mandelbrot Set 4K Render Video
 
-[![Mandelbrot Set 4K Render](http://img.youtube.com/vi/lknMmwwyiqg/0.jpg)](http://www.youtube.com/watch?v=lknMmwwyiqg "Mandelbrot Set 4K Render")
-```
-https://youtu.be/lknMmwwyiqg
-```
+[https://youtu.be/lknMmwwyiqg](https://youtu.be/lknMmwwyiqg)
